@@ -1,4 +1,4 @@
-# Large Language Model Fine-Tuning with Low-Rank Adaptation
+# Efficient Fine-Tuning of Large Language Models with LoRA and 4-Bit Quantization
 
 Welcome to the project where I've fine-tuned a large language model (LLM) using advanced techniques! The process involves several key steps, each contributing to the effective adaptation of the model for a specific task:
 
